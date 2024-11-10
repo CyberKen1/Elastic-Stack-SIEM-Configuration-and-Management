@@ -14,10 +14,13 @@ This project aimed to set up and configure an Elastic Stack SIEM in a home lab f
 - **Elastic Agents** for collecting and forwarding logs to the SIEM system.
 
 ## Steps
-![Screenshot 3: Elastic Stack Configuration](imgsrc)
 
-Description: Configured Elastic Stack components and connected agents for efficient log collection and security event forwarding.
+![Elastic Stack Configuration](https://github.com/user-attachments/assets/ba46b855-cdec-4f7d-b698-27b64f3a1acc)
+*Screenshot 3: Elastic Stack Configuration*
 
-![Screenshot 4: SIEM Dashboard Overview](imgsrc)
+**Description**: Configured Elastic Stack components and connected agents for efficient log collection and security event forwarding.
 
-Description: Displayed the SIEM dashboard showcasing collected data and generated security events for comprehensive analysis.
+![SIEM Dashboard Overview](https://github.com/user-attachments/assets/91e89d8f-1744-4480-a386-ed37344a1d64)
+*Screenshot 4: SIEM Dashboard Overview*
+
+**Description**: Displayed the SIEM dashboard showcasing collected data and generated security events for comprehensive analysis.
